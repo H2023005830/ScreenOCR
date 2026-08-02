@@ -24,7 +24,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/YOUR_USERNAME/ScreenOCR.git
+git clone https://github.com/H2023005830/ScreenOCR.git
 cd ScreenOCR
 
 # 2. 创建虚拟环境
